@@ -7,7 +7,7 @@
 - 👨‍💻 All information are at [ziadlahrouni.com](ziadlahrouni.com) **[DOWN FOR THE MOMENT]**
 
 - 📫 How to reach me : <br>
-**ziad.lahrouni@gmail.com**
+**ziad.lahrouni@gmail.com** <br>
 **ziad.lahrouni@protonmail.com** for encrypted mail
 
 <h3 align="left">Connect with me:</h3>
