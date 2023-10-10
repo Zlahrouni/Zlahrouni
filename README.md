@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter, CodeIgniter**
 
-- 👨‍💻 All information are at [ziadlahrouni.com](ziadlahrouni.com) **[DOWN FOR THE MOMENT]**
+- 👨‍💻 All information are at [ziadlahrouni.com](ziadlahrouni.com) **[![Netlify Status](https://api.netlify.com/api/v1/badges/6bd47fb8-a986-4990-9de5-4067fee4aa8e/deploy-status)](https://app.netlify.com/sites/ziad-lahrouni/deploys)**
 
 - 📫 How to reach me : <br>
 **ziad.lahrouni@gmail.com** <br>
