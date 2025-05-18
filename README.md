@@ -28,13 +28,6 @@
 
 ---
 
-## 🌓 Theme Mode  
-Click to switch GitHub profile theme:
-
-[![GitHub Dark Mode Toggle](https://img.shields.io/badge/-Switch%20Theme-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settings/appearance)
-
----
-
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
