@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://ziadlahrouni.com/og-image.png" width="800" alt="Ziad Lahrouni – Full Stack Developer">
-</p>
-
 ## 🌐 Website  
 👉 [ziadlahrouni.com](https://ziadlahrouni.com)
 
